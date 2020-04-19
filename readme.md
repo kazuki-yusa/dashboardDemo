@@ -1,12 +1,12 @@
 ## ローカル環境
--laradock
--HTML
--CSS（BootStrap）
--jQuery
--Chart js
--php 7.3
--Laravel5.8
--Mysql
+- laradock
+- HTML
+- CSS（BootStrap）
+- jQuery
+- Chart js
+- php 7.3
+- Laravel5.8
+- Mysql5.7
 
 ## 使用API
 -Sentry
