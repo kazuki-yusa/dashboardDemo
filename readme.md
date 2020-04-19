@@ -9,8 +9,8 @@
 - Mysql5.7
 
 ## 使用API
--Sentry
--google-apiclient
+- Sentry
+- google-apiclient
 
 ## 機能概要
 ログイン機能
